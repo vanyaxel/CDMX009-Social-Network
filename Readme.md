@@ -19,6 +19,9 @@ Integramos los elementos de cada sketch que aportaban más valor a la propuesta 
 ![Propuesta final](img_readme/figma1.png)
 ![Propuesta final](img_readme/figma2.png)
 
+## Prototipo Final
+![Propuesta final](img_readme/civitas.png)
+
 ## Objetivos de aprendizaje
 
 ### Objetivos de aprendizajes pendientes
